@@ -2,7 +2,7 @@
 
 Your one-stop shop for Git Practice!
 
-## Introduction
+## Activity
 
 This is a codealong for refreshing 8.1 on Git and GitHub.
-Hello welcome to activity code along.
+Welcome to activity code along.
