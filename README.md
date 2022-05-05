@@ -1,6 +1,6 @@
 # git-activity
 
-Your one-stop shop for Git Practice!
+Your three-stop shop for Git Practice!
 
 ## Activity
 
